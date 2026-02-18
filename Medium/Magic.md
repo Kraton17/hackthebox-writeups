@@ -251,16 +251,6 @@ Confirmed root access.
 
 ---
 
-## 🎯 Lessons Learned
-
-- SQL injection can lead to authentication bypass
-- File upload validation can be bypassed using magic bytes
-- Database credentials are often stored in configuration files
-- Custom SUID binaries are common privilege escalation vectors
-- PATH hijacking is effective when binaries use relative command paths
-
----
-
 ## 🧠 Tools Used
 
 - Nmap

@@ -1,8 +1,8 @@
 # Titanic — HackTheBox Writeup
 
-**Difficulty:** Easy
-**OS:** Linux
-**IP:** 10.129.x.x  <!-- target IP -->
+**Difficulty:** Easy  
+**OS:** Linux  
+**IP:** 10.129.x.x 
 
 ---
 
